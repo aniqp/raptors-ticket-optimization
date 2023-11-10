@@ -26,6 +26,3 @@ if response.status_code == 200:
     df = pd.DataFrame(formatted_data)
     df['attendance'] = df['visible_listing_count'].apply(lambda x: SCOTIABANK_ARENA_CAPACITY - x)
     df.to_csv('raptors-seatgeek-attendance.csv', index=False)
-
-
-        
