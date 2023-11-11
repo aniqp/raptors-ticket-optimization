@@ -12,10 +12,11 @@ response = requests.get(url, auth=auth, params=params)
 if response.status_code == 200:
     SCOTIABANK_ARENA_CAPACITY = 19800
     data = response.json().get('events', [])
-    formatted_data = {'venue': [], 'home_team': [], 'away_team': [], 
+    formatted_data = {'datetime_utc':[],'venue': [], 'home_team': [], 'away_team': [], 
                       'listing_count': [], 'visible_listing_count': [], 'average_price': [], 'lowest_price_good_deals': [], 
                       'lowest_price': [], 'highest_price': [], 'median_price': []}
     for i in range(len(data)):
+        formatted_data['datetime_utc'].append(data[i]['datetime_utc'])
         formatted_data['venue'].append(data[i]['venue']['name_v2'])
         formatted_data['home_team'].append(data[i]['performers'][0]['name'])
         formatted_data['away_team'].append(data[i]['performers'][1]['name'])
@@ -24,5 +25,5 @@ if response.status_code == 200:
                 formatted_data[stat].append(data[i]['stats'][stat])
 
     df = pd.DataFrame(formatted_data)
-    df['attendance'] = df['visible_listing_count'].apply(lambda x: SCOTIABANK_ARENA_CAPACITY - x)
+    df['attendance'] = df['listing_count'].apply(lambda x: SCOTIABANK_ARENA_CAPACITY - x)
     df.to_csv('raptors-seatgeek-attendance.csv', index=False)

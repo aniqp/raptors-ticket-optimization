@@ -1,37 +1,37 @@
-venue,home_team,away_team,listing_count,visible_listing_count,average_price,lowest_price_good_deals,lowest_price,highest_price,median_price,attendance
-Scotiabank Arena,Toronto Raptors,Washington Wizards,1028,654,239,42,42,3462,153,19146
-Scotiabank Arena,Toronto Raptors,Milwaukee Bucks,1155,743,402,55,55,15236,229,19057
-Scotiabank Arena,Toronto Raptors,Boston Celtics,1226,763,442,78,78,6753,270,19037
-Scotiabank Arena,Toronto Raptors,Detroit Pistons,1122,719,298,58,58,11028,195,19081
-Scotiabank Arena,Toronto Raptors,Chicago Bulls,1119,764,337,61,59,7058,221,19036
-Scotiabank Arena,Toronto Raptors,Phoenix Suns,1460,961,410,63,63,17330,250,18839
-Scotiabank Arena,Toronto Raptors,New York Knicks,1401,943,360,61,61,13237,231,18857
-Scotiabank Arena,Toronto Raptors,Atlanta Hawks,1252,872,229,35,35,7247,135,18928
-Scotiabank Arena,Toronto Raptors,Atlanta Hawks,1283,896,299,50,50,9739,179,18904
-Scotiabank Arena,Toronto Raptors,Charlotte Hornets,1155,806,245,36,36,7906,150,18994
-Scotiabank Arena,Toronto Raptors,Denver Nuggets,1011,690,460,70,70,11973,274,19110
-Scotiabank Arena,Toronto Raptors,Utah Jazz,1198,826,418,56,56,16060,258,18974
-Scotiabank Arena,Toronto Raptors,Cleveland Cavaliers,1133,810,358,52,52,9062,242,18990
-Scotiabank Arena,Toronto Raptors,Boston Celtics,1115,817,430,64,64,18530,263,18983
-Scotiabank Arena,Toronto Raptors,Miami Heat,999,744,342,54,54,6585,224,19056
-Scotiabank Arena,Toronto Raptors,Chicago Bulls,1141,813,346,60,60,12133,201,18987
-Scotiabank Arena,Toronto Raptors,Memphis Grizzlies,1164,818,335,60,60,5303,210,18982
-Scotiabank Arena,Toronto Raptors,Los Angeles Clippers,960,714,412,78,78,5123,248,19086
-Scotiabank Arena,Toronto Raptors,Houston Rockets,1075,788,383,58,58,7448,249,19012
-Scotiabank Arena,Toronto Raptors,Cleveland Cavaliers,922,704,382,50,50,14566,235,19096
-Scotiabank Arena,Toronto Raptors,San Antonio Spurs,947,737,411,67,67,6877,262,19063
-Scotiabank Arena,Toronto Raptors,Indiana Pacers,996,744,263,37,37,10314,156,19056
-Scotiabank Arena,Toronto Raptors,Brooklyn Nets,1051,772,284,49,49,3709,167,19028
-Scotiabank Arena,Toronto Raptors,Dallas Mavericks,1007,750,400,60,60,15443,244,19050
-Scotiabank Arena,Toronto Raptors,Golden State Warriors,912,743,657,140,140,7748,423,19057
-Scotiabank Arena,Toronto Raptors,Charlotte Hornets,769,637,314,38,38,10314,159,19163
-Scotiabank Arena,Toronto Raptors,New Orleans Pelicans,1022,774,283,49,49,6141,163,19026
-Scotiabank Arena,Toronto Raptors,Orlando Magic,1012,761,344,65,65,12710,195,19039
-Scotiabank Arena,Toronto Raptors,Sacramento Kings,1035,773,306,47,47,13520,169,19027
-Scotiabank Arena,Toronto Raptors,Oklahoma City Thunder,865,689,383,58,58,11555,206,19111
-Scotiabank Arena,Toronto Raptors,Brooklyn Nets,981,749,257,34,34,6141,156,19051
-Scotiabank Arena,Toronto Raptors,New York Knicks,964,734,331,44,44,12133,190,19066
-Scotiabank Arena,Toronto Raptors,Philadelphia 76ers,890,706,389,61,61,5840,232,19094
-Scotiabank Arena,Toronto Raptors,Los Angeles Lakers,880,704,776,150,150,21618,397,19096
-Scotiabank Arena,Toronto Raptors,Washington Wizards,813,648,276,55,55,5008,153,19152
-Scotiabank Arena,Toronto Raptors,Indiana Pacers,1030,788,306,49,49,11028,158,19012
+datetime_utc,venue,home_team,away_team,listing_count,visible_listing_count,average_price,lowest_price_good_deals,lowest_price,highest_price,median_price,attendance
+2023-11-14T00:30:00,Scotiabank Arena,Toronto Raptors,Washington Wizards,1042,658,283,42,42,115504,169,18758
+2023-11-16T00:30:00,Scotiabank Arena,Toronto Raptors,Milwaukee Bucks,1167,741,411,56,56,15236,229,18633
+2023-11-18T00:30:00,Scotiabank Arena,Toronto Raptors,Boston Celtics,1235,762,445,78,78,6753,272,18565
+2023-11-19T23:00:00,Scotiabank Arena,Toronto Raptors,Detroit Pistons,1127,722,299,58,58,11028,195,18673
+2023-11-25T00:30:00,Scotiabank Arena,Toronto Raptors,Chicago Bulls,1117,764,338,60,59,7058,222,18683
+2023-11-30T00:30:00,Scotiabank Arena,Toronto Raptors,Phoenix Suns,1463,963,410,63,63,17330,250,18337
+2023-12-02T00:30:00,Scotiabank Arena,Toronto Raptors,New York Knicks,1404,942,361,61,61,13237,231,18396
+2023-12-14T00:30:00,Scotiabank Arena,Toronto Raptors,Atlanta Hawks,1252,872,229,35,35,7247,135,18548
+2023-12-16T00:30:00,Scotiabank Arena,Toronto Raptors,Atlanta Hawks,1281,893,300,50,50,9739,179,18519
+2023-12-19T00:30:00,Scotiabank Arena,Toronto Raptors,Charlotte Hornets,1154,803,246,36,36,7906,150,18646
+2023-12-21T00:30:00,Scotiabank Arena,Toronto Raptors,Denver Nuggets,1009,687,462,70,70,11973,276,18791
+2023-12-24T00:30:00,Scotiabank Arena,Toronto Raptors,Utah Jazz,1204,826,417,56,56,16060,258,18596
+2024-01-02T00:30:00,Scotiabank Arena,Toronto Raptors,Cleveland Cavaliers,1133,808,358,52,52,9062,243,18667
+2024-01-16T00:30:00,Scotiabank Arena,Toronto Raptors,Boston Celtics,1115,817,432,64,64,18530,264,18685
+2024-01-18T00:30:00,Scotiabank Arena,Toronto Raptors,Miami Heat,998,743,343,54,54,6585,224,18802
+2024-01-19T00:30:00,Scotiabank Arena,Toronto Raptors,Chicago Bulls,1142,813,348,60,60,12133,201,18658
+2024-01-23T00:30:00,Scotiabank Arena,Toronto Raptors,Memphis Grizzlies,1164,818,335,60,60,5303,210,18636
+2024-01-27T00:30:00,Scotiabank Arena,Toronto Raptors,Los Angeles Clippers,959,713,413,78,78,5260,249,18841
+2024-02-10T00:30:00,Scotiabank Arena,Toronto Raptors,Houston Rockets,1076,789,384,58,58,7448,249,18724
+2024-02-11T00:30:00,Scotiabank Arena,Toronto Raptors,Cleveland Cavaliers,925,705,382,50,50,14566,235,18875
+2024-02-13T00:30:00,Scotiabank Arena,Toronto Raptors,San Antonio Spurs,947,737,411,67,67,6877,262,18853
+2024-02-15T00:30:00,Scotiabank Arena,Toronto Raptors,Indiana Pacers,995,743,263,37,37,10314,156,18805
+2024-02-23T00:00:00,Scotiabank Arena,Toronto Raptors,Brooklyn Nets,1051,772,283,49,49,3709,168,18749
+2024-02-29T00:30:00,Scotiabank Arena,Toronto Raptors,Dallas Mavericks,1007,750,400,60,60,15443,244,18793
+2024-03-02T00:30:00,Scotiabank Arena,Toronto Raptors,Golden State Warriors,910,741,660,140,140,7748,423,18890
+2024-03-03T23:00:00,Scotiabank Arena,Toronto Raptors,Charlotte Hornets,769,637,314,38,38,10314,159,19031
+2024-03-06T00:30:00,Scotiabank Arena,Toronto Raptors,New Orleans Pelicans,1023,774,283,49,49,6141,163,18777
+2024-03-15T23:30:00,Scotiabank Arena,Toronto Raptors,Orlando Magic,1012,761,344,65,65,12710,195,18788
+2024-03-20T23:30:00,Scotiabank Arena,Toronto Raptors,Sacramento Kings,1036,773,306,47,47,13520,169,18764
+2024-03-22T23:00:00,Scotiabank Arena,Toronto Raptors,Oklahoma City Thunder,867,690,379,58,58,11555,206,18933
+2024-03-25T23:30:00,Scotiabank Arena,Toronto Raptors,Brooklyn Nets,981,749,259,34,34,6141,157,18819
+2024-03-27T23:30:00,Scotiabank Arena,Toronto Raptors,New York Knicks,964,734,331,44,44,12133,190,18836
+2024-03-31T22:00:00,Scotiabank Arena,Toronto Raptors,Philadelphia 76ers,889,706,389,61,61,5840,232,18911
+2024-04-02T23:00:00,Scotiabank Arena,Toronto Raptors,Los Angeles Lakers,878,704,773,150,150,21618,396,18922
+2024-04-07T22:00:00,Scotiabank Arena,Toronto Raptors,Washington Wizards,813,648,276,55,55,5008,153,18987
+2024-04-09T23:00:00,Scotiabank Arena,Toronto Raptors,Indiana Pacers,1030,788,306,49,49,11028,158,18770
