@@ -11,7 +11,8 @@ response = requests.get(url, auth=auth, params=params)
 
 if response.status_code == 200:
     SCOTIABANK_ARENA_CAPACITY = 19800
-    data = response.json().get('events', [])
+    data_og = response.json()
+    data = data_og.get('events', [])
     formatted_data = {'datetime_utc':[],'venue': [], 'home_team': [], 'away_team': [], 
                       'listing_count': [], 'visible_listing_count': [], 'average_price': [], 'lowest_price_good_deals': [], 
                       'lowest_price': [], 'highest_price': [], 'median_price': []}
